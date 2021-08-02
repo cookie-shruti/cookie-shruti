@@ -12,6 +12,12 @@ Twitter: ShrutiBist2
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookie-shruti)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=cookie-shruti)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
