@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @cookie-shruti
+- 👋 Hallo, I’m @cookie-shruti
 - 👀 I’m interested in .learning new languages..
-- 🌱 I’m currently learning django 
+- 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 How to reach me ...
 Twitter: ShrutiBist2
+
+![](https://visitor-badge.laobi.icu/badge?page_id=cookie-shruti.cookie-shruti)
+[![Github](https://img.shields.io/github/followers/cookie-shruti?label=Follow&style=social)](https://github.com/cookie-shruti)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 
 
 <!---
