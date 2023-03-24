@@ -1,9 +1,7 @@
 - 👋 Hallo, I’m @cookie-shruti
 - 👀 I’m interested in .learning new languages..
-- 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on Data Analysis project
-- 📫 How to reach me ...
-Twitter: ShrutiBist2
+
 
 
 
