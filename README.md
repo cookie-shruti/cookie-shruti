@@ -1,6 +1,6 @@
 - 👋 Hallo, I’m @cookie-shruti
 - 👀 I’m interested in .learning new languages..
-- 💞️ I’m looking to collaborate on Data Analysis project
+- 💞️ Currently working on python projects
 
 
 
