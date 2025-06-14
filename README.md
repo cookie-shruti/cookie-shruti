@@ -1,6 +1,7 @@
 - 👋 Hallo, I’m @cookie-shruti
 - 👀 I’m interested in .learning new languages..
-- 💞️ Currently working on python projects
+- 💞️ Currently working Shell Scripting, AWS services, Git commands.
+- 📈 More skills loading.....
 
 
 
